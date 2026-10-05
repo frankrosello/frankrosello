@@ -83,7 +83,7 @@ What originally started as a simple alternative way to launch the game grew into
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=frankrosello&theme=github-dark-blue&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=frankrosello&theme=dark&hide_border=true" />
 </p>
 
 ---
