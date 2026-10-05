@@ -82,9 +82,7 @@ What originally started as a simple alternative way to launch the game grew into
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=frankrosello&layout=compact&theme=github_dark&hide_border=true" />
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=frankrosello&theme=dark&hide_border=true" />
-</p>
+
 
 ---
 
